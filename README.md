@@ -12,6 +12,7 @@
 - 💬 Ask me about **JavaScript,ReactJs,Typescript, NextJs**
 
 - 📫 How to reach me Linkedin **https://www.linkedin.com/in/sadiq-shah-806937166/**
+- 📫 How to reach me Github Sadiqshah-I **(https://github.com/sadiqshah786/)**
 
 - ⚡ Fun fact **#DataScience more than #Web Development While doing job as FrontEnd Developer 😂**
 
